@@ -142,5 +142,4 @@ Customer segmentation delivers the most value when it balances analytical rigor 
 
 Shakioye Kofoworola . O
 Data Analytics Intern – My Online Shop
-[LinkedIn Profile Link]
-[GitHub Profile Link]
+LinkedIn Profile : www.linkedin.com/in/kofoworola-shakioye-1827a0291
